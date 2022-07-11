@@ -8,4 +8,4 @@
 5. Linux 서버 구축: 실제 sudo/UFW(방화벽)/SSH 구성 및 비밀번호 규칙 정의, 호스트와 클라이언트 입장에서 서버 테스트<br>
 6. 서버 통신: Sigusr같은 시스템콜 함수를 이용하여 서버와 클라이언트 간의 메시지를 주고 받음
 
-find . -name '*.DS_Store' -exec rm {} \;
+<!-- find . -name '*.DS_Store' -exec rm {} \;-->
