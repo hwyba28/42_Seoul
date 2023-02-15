@@ -11,8 +11,8 @@
 6. Minishell(Team): Made a program which can operate like a real terminal. [After parsing strings inputed by users, the built-in command
 (export, echo, env, ..) will be executed]
 
-  
-<br>
+<br><br>
+
 # 42_서울 - 개인/팀 프로젝트<Br>
 [KR] 프로젝트 설명: 다양한 C언어 내부 Library를 구현 및 이를 이용하여 서버 구축 통신 등의 과제를 수행<br>
 
