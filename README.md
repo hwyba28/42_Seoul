@@ -14,6 +14,7 @@
 # 42_Seoul - Personal/Team Project<Br>
 
 [KR] 프로젝트 설명: 다양한 C언어 내부 Library를 구현 및 이를 이용하여 서버 구축 통신 등의 과제를 수행<br>
+
 0. La Piscine: C언어 내부 함수 구현
 1. Libft: C언어 내 함수 구현
 2. get_next_line: 파일을 불러와 개행 기준으로 파일 내용을 읽어오는 함수 구현
