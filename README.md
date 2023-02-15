@@ -1,6 +1,6 @@
 # 42_Seoul - Personal/Team Project<Br>
 
-[EN] Project Description: Implement various C language libraries and use them to build programs<br>
+Project Description: Implement various C language libraries and use them to build programs<br>
 
 0. La Piscine: Implemented C librariy's basic functions
 1. Libft: Implemented C librariy's advanced functions
@@ -14,7 +14,7 @@
 <br><br>
 
 # 42_서울 - 개인/팀 프로젝트<Br>
-[KR] 프로젝트 설명: 다양한 C언어 내부 Library를 구현 및 이를 이용하여 서버 구축 통신 등의 과제를 수행<br>
+프로젝트 설명: 다양한 C언어 내부 Library를 구현 및 이를 이용하여 서버 구축 통신 등의 과제를 수행<br>
 
 0. La Piscine: C언어 내부 함수 구현
 1. Libft: C언어 내 함수 구현
