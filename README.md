@@ -9,7 +9,7 @@ Project Description: Implement various C language libraries and use them to buil
 4. Building a Linux server: After making rules and configure sudo/UFW (firewall)/SSH, tested the server from a host and client.
 5. Server communication: Using system call functions such as Sigusr, sent and received messages between server and client.
 6. Minishell(Team): Made a program which can operate like a real terminal.(GNU Library used)
-   \ [After parsing strings inputed by users, the built-in command (cd, echo, env, export, pwd, unset ,exit) will be executed]
+   <br>[After parsing strings inputed by users, the built-in command (cd, echo, env, export, pwd, unset ,exit) will be executed]
 
 <br><br>
 
@@ -23,5 +23,5 @@ Project Description: Implement various C language libraries and use them to buil
 4. Linux 서버 구축: 실제 sudo/UFW(방화벽)/SSH 구성 및 비밀번호 규칙 정의, 호스트와 클라이언트 입장에서 서버 테스트<br>
 5. 서버 통신: Sigusr같은 시스템콜 함수를 이용하여 서버와 클라이언트 간의 메시지를 주고 받음
 6. Minishell(팀): 실제 터미널처럼 동작할 수 있는 프로그램 구현 (GNU 라이브러리 사용)
-   \ [사용자가 입력한 문자열을 파싱한 후 내장 명령어(cd, echo, env, export, pwd, unset ,exit) 실행]
+   <br> [사용자가 입력한 문자열을 파싱한 후 내장 명령어(cd, echo, env, export, pwd, unset ,exit) 실행]
 <!-- find . -name '*.DS_Store' -exec rm {} \;-->
