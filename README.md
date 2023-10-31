@@ -8,7 +8,7 @@ Project Description: Implement various C language libraries and use them to buil
 3. ft_prinf: Implemented the same function as printf in C language
 4. Building a Linux server: After making rules and configure sudo/UFW (firewall)/SSH, tested the server from a host and client.
 5. Server communication: Using system call functions such as Sigusr, sent and received messages between server and client.
-6. Minishell(Team): Made a program which can operate like a real terminal.(GNU Library used)
+6. Minishell(Team): Made a program which can operate like a real terminal (using GNU Library)
    <br>[After parsing strings inputed by users, the built-in command (cd, echo, env, export, pwd, unset ,exit) will be executed]
 
 <br><br>
